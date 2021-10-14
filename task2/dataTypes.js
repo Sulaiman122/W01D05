@@ -2,7 +2,7 @@ let x = 4;
 let str = "hello world";
 let arr = [0,1,2,3,"hi"];
 let obj = {name: "Sulaiman",
-age = 26}
+age : 26}
 
 console.log(`integer = ${x} -- string = ${str} -- array = ${arr} -- obj = ${obj}`)
 
